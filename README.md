@@ -11,4 +11,4 @@
 
 **My GitHub Top Languages**
 
-<img  alt="JanviRaina's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanviRaina&show_icons=true&hide_border=true&theme=radical"/>
+<img align="bottom" alt="JanviRaina's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JanviRaina&show_icons=true&hide_border=true&theme=radical"/>
