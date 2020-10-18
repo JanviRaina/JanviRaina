@@ -5,4 +5,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JanviRaina&show_icons=true&cache_seconds=86400) 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=janviraina)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JanviRaina)
