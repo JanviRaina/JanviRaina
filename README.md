@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/-BitByBit-blue?page_id=janviRaina) 
 
-### Hi there 👋
+# Hi there 👋
 
 📫 How to reach me:  janvi.raina9@gmail.com
 
